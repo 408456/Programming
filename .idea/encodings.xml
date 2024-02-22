@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/creatures/MagicalCreature.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/creatures/Season.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/exceptions/BuildingCreationException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/exceptions/CreatureCreationException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/exceptions/InteractionException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/exceptions/ItemCreationException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interfaces/Creative.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interfaces/ItemInteractable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/interfaces/SeasonSensitive.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/items/Book.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/items/Brush.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/items/Building.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/items/Herb.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/items/Ladder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/items/Library.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
